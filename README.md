@@ -21,7 +21,6 @@ A modern React Native personal finance wallet application built with Expo Router
 - **Real-time Balance**: Live balance calculation based on your transactions
 - **Beautiful UI**: Modern, responsive design with smooth animations
 - **Cross-platform**: Runs on iOS, Android, and Web
-- **Offline Support**: Local data persistence with secure storage
 
 ## 🛠 Tech Stack
 
